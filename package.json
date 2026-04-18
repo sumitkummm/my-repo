@@ -40,5 +40,9 @@
     "tailwindcss": "^4.1.14",
     "tsx": "^4.21.0",
     "typescript": "~5.8.2"
+  },
+  "overrides": {
+    "node-domexception": "npm:empty-package",
+    "whatwg-encoding": "^3.1.1"
   }
 }
