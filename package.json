@@ -7,7 +7,6 @@
     "dev": "tsx watch app.js",
     "start": "node app.js",
     "build": "vite build",
-    "preview": "vite preview",
     "lint": "echo 'No lint step needed'"
   },
   "dependencies": {
@@ -34,7 +33,7 @@
   },
   "devDependencies": {
     "@types/express": "^5.0.0",
-    "@types/node": "^22.14.0",
+    "@types/node": "^22.15.0",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
     "autoprefixer": "^10.4.21",
